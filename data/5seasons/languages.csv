@@ -1,0 +1,69 @@
+id,value,subtitle,dialect,family
+Languages,,,peru,blue,
+Languages.Common,
+Languages.Common.Dread dialects,,locality
+Languages.Common.Dread dialects.Balok,
+Languages.Common.Dread dialects.Darkonese,
+Languages.Common.Dread dialects.Falkovnian
+Languages.Common.Dread dialects.Luktar,
+Languages.Common.Dread dialects.Mordentish,
+Languages.Common.Dread dialects.Patterna,
+Languages.Common.Dread dialects.Vaasi,
+Languages.Common.Netherese,,dead language
+Languages.Common.Quori
+Languages.Common.Runic,,ancient form,Ghoul Speak
+Languages.Common.Thieves' Cant,,cypher
+Languages.Common.Undercommon,
+Languages.Common.Zakharan,
+Languages.human,,phylum
+Languages.human.Shou,1,,Kozakuran
+Languages.human.Shou.Malatran,,,Kozakuran
+Languages.human.Kozakuran,2
+Languages.human.Mian,3,Suvarian,Kozakuran
+Languages.humanoid,-4,phylum
+Languages.humanoid.Aarakocra,4,,Auran
+Languages.humanoid.Dwarvish,2,,Gnomish
+Languages.humanoid.Elvish,
+Languages.humanoid.Elvish.Deep Elvish,
+Languages.humanoid.Elvish.Quenya,
+Languages.humanoid.Giantish,
+Languages.humanoid.Gith,
+Languages.humanoid.Goblin,
+Languages.humanoid.Gnomish,1
+Languages.humanoid.Gnomish.Svirfneblin,
+Languages.humanoid.Halfling,
+Languages.humanoid.Orcish,3,,Dwarvish
+Languages.humanoid.Yipjak,
+Languages.humanoid.Vedalken,
+Languages.Athasian,4,locality
+Languages.Athasian.Jincilla,
+Languages.Athasian.Kreen,
+Languages.deep,2,locality
+Languages.deep.Drow Handtalk,,sign language
+Languages.deep.Qualith,
+Languages.Beholder,1,,Deep Speech
+Languages.Druidic,-2,cypher,Sylvan
+Languages.Modron,
+Languages.Sylvan,-3,,Elvish
+Languages.demonic,,phylum
+Languages.demonic.Abyssal,,,Infernal
+Languages.demonic.Infernal,,Jigoku
+Languages.demonic.Infernal.Oni,,,Kozakuran
+Languages.Celestial,3
+Languages.Celestial.Enochian,,,R'ylehian
+Languages.Draconic,-1,,,Yipjak
+Languages.Primordial,
+Languages.Primordial.Aquan
+Languages.Primordial.Auran,,,,Aquan
+Languages.Primordial.Ignan,,,,Auran
+Languages.Primordial.Terran,,,,Ignan
+Languages.elder,,phylum
+Languages.elder.Aklo
+Languages.elder.Chian
+Languages.elder.Deep Speech
+Languages.elder.Ghoul Speak
+Languages.elder.Naacal,,,Common
+Languages.elder.Pnakotic
+Languages.elder.R'lyehian,1,,Qualith
+Languages.elder.Xu
+Languages.elder.Yithian

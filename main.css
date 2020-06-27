@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=Italianno|Reem+Kufi&display=swap");
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: "Reem Kufi", sans-serif;
+	font-size: 15px;
+	color: rgb( 87, 35, 12 );
+	background-color: #fdf6e3;
+}
+
+.ribbons, .groups {
+  fill-opacity: 0.67;
+}
+
+.titles {
+	font-size: 24px;
+	font-weight: bold;
+	fill: rgb( 87, 35, 12 );
+}
+
+.node circle {
+	fill: #999;
+}
+
+.node text {
+	font-size: 12px;
+	fill: rgb( 87, 35, 12 );
+}
+
+.node--internal circle {
+	fill: #555;
+}
+
+.node--internal text {
+	text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.node--subtitle, .node.node--leaf .node--subtitle, .node.node--internal .node--subtitle {
+	font-size: 10px;
+	fill: rgb( 167, 115, 92 );
+	opacity: 0.9;
+}
+
+.link {
+	fill: none;
+	stroke: #555;
+	stroke-opacity: 0.4;
+	stroke-width: 1.5px;
+}
+
+.xlink {
+	fill: none;
+	stroke-opacity: 0.4;
+	stroke-width: 1.5px;
+}
+
+.title {
+	font-family: "Italianno", cursive;
+	font-size: 48px;
+	font-weight: bold;
+	fill: rgb( 87, 35, 12 );
+}
+
+.legend {
+	font-size: 15px;
+	fill: rgb( 87, 35, 12 );
+}
+
+.legend.friend { fill: green; }
+.legend.enemy { fill: red; }
+
